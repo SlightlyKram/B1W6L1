@@ -1,0 +1,12 @@
+
+body {
+	background-color: #eee9d6;
+	height: 200px; 
+	width: 300px; 
+	border: dashed 20px red; 
+	padding-right: 40px;
+}
+
+p {
+	margin-left: 40px;
+}
